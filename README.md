@@ -1,5 +1,6 @@
 # Email-Bomber-Lookout
 
+![Screenshot of the program](screenshot(1).png)
 ## Disclaimer
 
 This project is provided for educational purposes only. I am not responsible for any misuse or illegal activities that may arise from the use of this project. 
