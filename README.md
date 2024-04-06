@@ -11,7 +11,7 @@ This project is provided for educational purposes only. I am not responsible for
 - Customize the content and subject of the emails.
 - Easy to use and understand.
 
-## Installation
+## Installation (Linux)
 
    ```bash
    sudo apt update
