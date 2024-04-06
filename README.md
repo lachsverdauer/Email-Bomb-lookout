@@ -2,11 +2,7 @@
 
 ## Disclaimer
 
-This project is provided for educational purposes only. The creator(s) of this project are not responsible for any misuse or illegal activities that may arise from the use of this project. 
-
-Users are solely responsible for ensuring that their use of this project complies with all applicable laws and regulations. Any actions taken by users of this project are their own responsibility.
-
-Please use this project responsibly and ethically.
+This project is provided for educational purposes only. I am not responsible for any misuse or illegal activities that may arise from the use of this project. 
 
 ## Features
 
@@ -16,22 +12,28 @@ Please use this project responsibly and ethically.
 
 ## Installation
 
-1. Clone the repository:
-
    ```bash
+   sudo apt update
+   sudo apt upgrade
+   ```
+   ```
+   sudo apt install git
+   ```
+   ```
+   sudo apt install python3-pip
+   ```
+   ```
    git clone git@github.com:lachsverdauer/Email-Bomb-lookout.git
-
-## Navigate to the project directory:
-```bash
-cd Email-Bomb-lookout
-```
+   ```
+   ```
+   cd Email-Bomb-lookout
+   ```
+   ```
+   pip install -r requirements.txt
+   ```
 
  Ensure you have Python installed on your system. You can download it from the official Python website.
 
-## Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 ### Usage
 
 You NEED to put yout email and App Password into the config.py file. The email MUST have 2FA to work.
@@ -40,9 +42,9 @@ The password WILL NOT work with your regular password. You will need to add an A
 
 It works on Gmail and in Outlook.
 
-Run the program:
+# Run the program:
 
-```bash
+```
 python main.py
 ```
 
