@@ -46,6 +46,6 @@ It works on Gmail and in Outlook.
 # Run the program:
 
 ```
-python main.py
+python3 main.py
 ```
 
