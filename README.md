@@ -24,7 +24,7 @@ This project is provided for educational purposes only. I am not responsible for
    sudo apt install python3-pip
    ```
    ```
-   git clone git@github.com:lachsverdauer/Email-Bomb-lookout.git
+   git clone https://github.com/lachsverdauer/Email-Bomb-lookout.git
    ```
    ```
    cd Email-Bomb-lookout
