@@ -35,6 +35,32 @@ This project is provided for educational purposes only. I am not responsible for
 
  Ensure you have Python installed on your system. You can download it from the official Python website.
 
+## Installation (macOS)
+### Prerequisites:   homebrew & Xcode & git & python
+
+If you dont have it:
+```
+xcode-select --install
+```
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+```
+brew install git
+```
+```
+brew install python
+```
+```
+git clone https://github.com/lachsverdauer/Email-Bomb-lookout.git
+```
+```
+cd Email-Bomb-lookout
+```
+```
+pip3 install -r requirements.txt
+``
+
 ### Usage
 
 You NEED to put yout email and App Password into the config.py file. The email MUST have 2FA to work.
