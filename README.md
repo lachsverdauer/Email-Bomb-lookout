@@ -63,8 +63,8 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-###BEFORE YOU USE IT -> CONFIGURE THE EMAILS AND PASSWORDS IN THE config.py FILE
-###300 mails per 24h for 1 outlook account, 500 mails per 24h for 1 gmail account
+### BEFORE YOU USE IT -> CONFIGURE THE EMAILS AND PASSWORDS IN THE config.py FILE
+### 300 mails per 24h for 1 outlook account, 500 mails per 24h for 1 gmail account
 
 You NEED to put yout email and App Password into the config.py file. The email MUST have 2FA to work.
 
