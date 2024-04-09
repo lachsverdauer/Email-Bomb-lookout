@@ -32,33 +32,67 @@ This project is provided for educational purposes only. I am not responsible for
    ```
    pip install -r requirements.txt
    ```
-
- Ensure you have Python installed on your system. You can download it from the official Python website.
+   ### Run the program:
+   ```
+   python3 main.py
+   ```
 
 ## Installation (macOS)
 ### Prerequisites:   homebrew & Xcode & git & python
 
-If you dont have it:
+   If you dont have it:
+   ```
+   xcode-select --install
+   ```
+   ```
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+   ```
+   brew install git
+   ```
+   ```
+   brew install python
+   ```
+   ```
+   git clone https://github.com/lachsverdauer/Email-Bomb-lookout.git
+   ```
+   ```
+   cd Email-Bomb-lookout
+   ```
+   ```
+   pip3 install -r requirements.txt
+   ```
+   ### Run the program
+   ```
+   python3 main.py
+   ```
+## Installation (Windows)
+### Prerequisites: Git & Python
+
+-Python: Download it from: https://www.python.org/downloads/
+During installation, make sure to check the option "Add Python 3.x to PATH" to ensure Python and pip are available from the command line.
+
+-Git: Download it from: https://git-scm.com/download/win
+
+1. Open Command Prompt or PowerShell as an administrator.
+
+2. Update pip, the Python package installer, to its latest version:
 ```
-xcode-select --install
-```
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-```
-brew install git
-```
-```
-brew install python
+python -m pip install --upgrade pip
 ```
 ```
 git clone https://github.com/lachsverdauer/Email-Bomb-lookout.git
+
 ```
 ```
 cd Email-Bomb-lookout
 ```
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
+```
+Start the program:
+```
+python3 main.py
 ```
 
 ## Usage
