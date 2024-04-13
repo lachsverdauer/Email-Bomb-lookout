@@ -7,9 +7,11 @@ This project is provided for educational purposes only. I am not responsible for
 
 ## Features
 
-- Send multiple emails to a specified target email address.
-- Customize the content and subject of the emails.
-- Easy to use and understand.
+### With this program you are able to send LOTS of emails to a recipient of your choice
+
+- WILL NOT go into spam folder
+- Able to send thousands of emails in a literal minute
+- Turns phones hot and makes them lag from all the notifications
 
 ## Installation (Linux)
 
