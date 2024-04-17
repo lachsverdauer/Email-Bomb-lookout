@@ -118,4 +118,14 @@ python3 main.py
 
    On sms4sats.com you can rent a sim card of your choice for 4 hours. It costs approximatley 15 USDT in Statoshi Coin.
 
-   You can use satoshi wallet for payment.
+   You can use satoshi wallet app for payment.
+
+## For anonymity:
+
+   - Use the rented SIM-Cards on sms4sats.com
+   - Use a public wifi
+   - Use a VPN Service of other form of proxy
+
+## Disclaimer
+
+This project is provided for educational purposes only. I am not responsible for any misuse or illegal activities that may arise from the use of this project.
