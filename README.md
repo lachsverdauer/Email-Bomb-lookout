@@ -13,6 +13,8 @@ This project is provided for educational purposes only. I am not responsible for
 - Able to send thousands of emails in a literal minute
 - Turns phones hot and makes them lag from all the notifications
 
+### (Gmail works better than Outlook)
+
 ## Installation (Linux)
 
    ```bash
