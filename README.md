@@ -114,3 +114,8 @@ It works on Gmail and in Outlook.
 python3 main.py
 ```
 
+## If you do not have a SIM-Card for 2FA:
+
+   On sms4sats.com you can rent a sim card of your choice for 4 hours. It costs approximatley 15 USDT in Statoshi Coin.
+
+   You can use satoshi wallet for payment.
