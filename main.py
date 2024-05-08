@@ -114,26 +114,26 @@ delay = get_non_negative_integer("Enter the delay (in seconds) between sending e
 
 # Randomized sentences to not be thrown into the spam folder
 message_sentences = [
-    "Greetings from the Scottish Highlands, where adventure awaits.",
-    "Our arrival was greeted by the lush greenery of rolling hills.",
-    "Mystical lochs mirrored the towering mountains, a sight to behold.",
-    "Hidden glens and secret waterfalls were unveiled on our hikes.",
-    "Ancient castles stood tall, whispering centuries-old tales.",
-    "Local hospitality turned meals into feasts among new friends.",
-    "Evenings were alive with the sound of traditional Celtic music.",
-    "We learned the art of whisky making, from grain to golden spirit.",
-    "Artisan crafts at village markets showcased Scotland's heritage.",
-    "A boat journey offered breathtaking views of the lochs.",
-    "Early mornings revealed the majestic sight of wild stags.",
-    "The history of ancient clans enriched our journey.",
-    "Each path revealed stunning panoramas of the Highlands.",
-    "Leaving the Highlands was bittersweet, with memories to cherish.",
-    "Dreams of our next adventure are already taking shape.",
-    "The crisp air and clear skies made every view picturesque.",
-    "Nights under the stars felt like stepping into another world.",
-    "Every meal was an introduction to delicious local cuisine.",
-    "The serenity of the Highlands was unlike anything we've experienced.",
-    "We left inspired by the spirit and beauty of the Highlands."
+    "Greetings from the tropical beaches of Hawaii, where relaxation awaits.",
+    "Our arrival was greeted by the warm sands and azure waters.",
+    "Mystical sunsets mirrored the vibrant hues of the sea, a sight to behold.",
+    "Hidden coves and secret tide pools were unveiled on our walks.",
+    "Ancient volcanoes stood tall, whispering centuries-old tales.",
+    "Local hospitality turned meals into luau feasts among new friends.",
+    "Evenings were alive with the sound of ukulele music.",
+    "We learned the art of surfing, from paddling to riding the waves.",
+    "Artisan crafts at local markets showcased Hawaii's heritage.",
+    "A boat journey offered breathtaking views of the coastline.",
+    "Early mornings revealed the majestic sight of humpback whales.",
+    "The history of the native Hawaiian culture enriched our journey.",
+    "Each path revealed stunning panoramas of lush landscapes.",
+    "Leaving the beaches was bittersweet, with memories to cherish.",
+    "Dreams of our next tropical adventure are already taking shape.",
+    "The warm breeze and sunny skies made every view picturesque.",
+    "Nights under the palm trees felt like stepping into another world.",
+    "Every meal was an introduction to delicious island cuisine.",
+    "The serenity of the islands was unlike anything we've experienced.",
+    "We left inspired by the spirit and beauty of Hawaii."
 ]
 
 for sender_email, sender_password in senders_info[email_service]:
